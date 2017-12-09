@@ -1,0 +1,8 @@
+name: test
+description: |
+  test
+version: 10.0
+category: A
+maintainer: Renato
+license: Apache2
+projectURL: http://www.scipionyx.io

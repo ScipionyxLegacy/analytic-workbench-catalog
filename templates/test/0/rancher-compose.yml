@@ -1,0 +1,7 @@
+.catalog:
+  name: test
+  version: 0.0.1
+  description: test
+  uuid: test-01
+  minimum_rancher_version: 
+  questions: #Used to request user input for configuration options
