@@ -1,0 +1,8 @@
+name: analytic
+description: |
+  Analytic Workbench system zookeeper
+version: 3.4.10-rancher1
+category: Clustering
+maintainer: "Renato Mendes rmendes@scipionyx.io"
+license: 
+projectURL: http://www.scipionyx.io
